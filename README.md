@@ -59,9 +59,8 @@ This is a web based application developed for Tourism related based website.
 
 ## Technologies 📂
 
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- [Azure(Hosting)]
 - HTML
 - CSS
 - Bootstrap
 - JavaScript
-](https://github.com/Bhargavko/FRT)
