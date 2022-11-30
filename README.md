@@ -7,7 +7,7 @@ This is a web based application developed for Tourism related based website.
 ### This web based Tourism application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://salmon-flower-0d8fbe000.2.azurestaticapps.net
+**Project Link** - https://thankful-cliff-0f163a310.2.azurestaticapps.net
 **project demo video link** - 
 
 ## Azure technologies used for Project ✌️
