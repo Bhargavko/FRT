@@ -8,7 +8,7 @@ This is a web based application developed for Tourism related based website.
 
 
 **Project Link** - https://thankful-cliff-0f163a310.2.azurestaticapps.net
-**project demo video link** - 
+**project demo video link** - https://youtu.be/_1K7NwIW5ps
 
 ## Azure technologies used for Project ✌️
 
