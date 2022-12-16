@@ -53,7 +53,7 @@ This is a web based application developed for Tourism related based website.
 
 ### Azure bot
 
-    "HELP-BOT"
+*---> "HELP-BOT"
 
 
 
