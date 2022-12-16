@@ -29,6 +29,11 @@ This is a web based application developed for Tourism related based website.
 - 100% Responsive design
 - On scroll fixed navigation
 ## Screenshots
+  
+  
+ 
+ 
+ ##Home
 
 ![Home1](https://user-images.githubusercontent.com/116092852/204785672-768a713d-d077-4c9a-8645-aa95769c4c5d.png)
 
