@@ -56,10 +56,15 @@ This is a web based application developed for Tourism related based website.
 ![Help-Bot](https://user-images.githubusercontent.com/116092852/204785773-6ff2a40b-daae-416b-a72d-07d196b0bfa1.png)
 
 
+![2](https://user-images.githubusercontent.com/116092852/208034218-b060b90e-9a3d-4c49-83c8-0219a30873d2.png)
+
+![3](https://user-images.githubusercontent.com/116092852/208034372-cbd5f676-63a9-4fcd-80bc-4496f1e730a2.png)
+
+![4](https://user-images.githubusercontent.com/116092852/208034396-16edd3d9-0723-4e74-969b-98cfe2e6067f.png)
 
 ## Technologies 📂
 
-- [Azure(Hosting)]
+- Azure
 - HTML
 - CSS
 - Bootstrap
