@@ -72,3 +72,5 @@ This is a web based application developed for Tourism related based website.
 - CSS
 - Bootstrap
 - JavaScript
+- Microsoft Bot Framework Composer
+- Microsoft Bot Framework Emulator
