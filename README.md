@@ -51,7 +51,7 @@ This is a web based application developed for Tourism related based website.
 ![Contact](https://user-images.githubusercontent.com/116092852/204785759-47c33da1-2c21-4cf3-929e-ac01b159fe88.png)
 
 
-### Azure bot
+### Help-bot
 
 *---> "HELP-BOT"
 
