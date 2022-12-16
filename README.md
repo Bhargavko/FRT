@@ -76,6 +76,14 @@ This is a web based application developed for Tourism related based website.
 ![c1](https://user-images.githubusercontent.com/116092852/208113438-caf752ab-25ca-4857-bbdb-5ba0cb2a8f99.png)
 ![c2](https://user-images.githubusercontent.com/116092852/208113462-bf9297fb-a550-4b49-89a5-dccb50b041d6.png)
 
+### Bot code 
+![c4](https://user-images.githubusercontent.com/116092852/208117223-dea6c5d7-6e8b-4411-b542-d271bd53f7e5.png)
+
+
+### Bot Response
+
+![c5](https://user-images.githubusercontent.com/116092852/208117255-78a144aa-f0c3-46ea-9f57-4d0fa7d9522d.png)
+
 ### Microsoft Bot Framework Emulator
 
 ![e1](https://user-images.githubusercontent.com/116092852/208113492-1a4488cb-b737-40e5-92bb-15c8dd6a8ae3.png)
